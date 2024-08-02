@@ -1,0 +1,9 @@
+_build
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+.pytest_cache
+*.pyc
+.ruff_cache
+.mypy_cache
+.venv
